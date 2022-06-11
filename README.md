@@ -1,5 +1,5 @@
 # Hello, Dev! 🚀 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <a href="https://www.linkedin.com/in/fassarella" target="_blank" rel="nofollow"><img align="right" alt="Camila's Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<p align="center">My name is Camila Fassarella, I'm a full-stack web developer with a passion for front-end, IronHack almuni and currently based in São Paulo, Brazil.</p>
+<p align="center">My name is Camila Fassarella, I'm a full-stack web developer with a passion for front-end, IronHack almuni and currently based in Montreal, Canada.</p>
 <hr>
 
 ### Languages, Tools and more
